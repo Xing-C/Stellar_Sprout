@@ -1,9 +1,9 @@
 {
-  "item.use.info.star_energy_dust.1": "魔法粉尘",
+  "item.use.info.star_energy_dust.1": "§b魔法粉尘",
   "block.stellar_sprout.laser_red": "红色微光透镜",
   "block.stellar_sprout.laser_drill": "镭射发生器",
-  "item.use.info.star_energy_dust.2": "&e不要吃...",
-  "item.stellar_sprout.starry_sky_space": "&bStarry Sky Space Portal Igniter",
+  "item.use.info.star_energy_dust.2": "§e不要吃...",
+  "item.stellar_sprout.starry_sky_space": "Starry Sky Space Portal Igniter",
   "biome.stellar_sprout.starry_sky": "Starry Sky",
   "item.stellar_sprout.star_energy_dust": "蕴能星空之尘",
   "item_group.stellar_sprout.stellar_sprout_main": "Stellar_Sprout",

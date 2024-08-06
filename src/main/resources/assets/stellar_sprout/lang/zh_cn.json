@@ -1,9 +1,9 @@
 {
-  "item.use.info.star_energy_dust.1": "魔法粉尘",
+  "item.use.info.star_energy_dust.1": "§b魔法粉尘",
   "block.stellar_sprout.laser_red": "红色微光透镜",
   "block.stellar_sprout.laser_drill": "镭射发生器",
-  "item.use.info.star_energy_dust.2": "&e不要吃...",
-  "item.stellar_sprout.starry_sky_space": "&b星空空间之钥（创造）",
+  "item.use.info.star_energy_dust.2": "§e不要吃...",
+  "item.stellar_sprout.starry_sky_space": "星空空间之钥（创造）",
   "biome.stellar_sprout.starry_sky": "星空",
   "item.stellar_sprout.star_energy_dust": "蕴能星空之尘",
   "item_group.stellar_sprout.stellar_sprout_main": "星空子民",
