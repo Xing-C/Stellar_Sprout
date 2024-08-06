@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "stellar_sprout:item/xingkong_dust"
+  }
+}

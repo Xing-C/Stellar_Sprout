@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "stellar_sprout:blocks/laser_red",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "stellar_sprout:laser_red"
+        }
+      ]
+    }
+  ]
+}

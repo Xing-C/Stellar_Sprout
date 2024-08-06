@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "stellar_sprout:block/starry_sky_space_portal_ew"
+    },
+    "axis=x": {
+      "model": "stellar_sprout:block/starry_sky_space_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stellar_sprout:block/laser_red",
+    "up": "stellar_sprout:block/laser_red",
+    "north": "stellar_sprout:block/laser_red",
+    "east": "stellar_sprout:block/laser_red",
+    "south": "stellar_sprout:block/laser_red",
+    "west": "stellar_sprout:block/laser_red",
+    "particle": "stellar_sprout:block/laser_red"
+  },
+  "render_type": "cutout_mipped"
+}

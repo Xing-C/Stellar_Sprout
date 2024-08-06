@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:polished_granite",
+    "minecraft:air",
+    "minecraft:air",
+    "stellar_sprout:metal_auxiliary_blocks",
+    "stellar_sprout:starlight_auxiliary_blocks",
+    "stellar_sprout:laser_red"
+  ]
+}
